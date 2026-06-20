@@ -5,6 +5,7 @@ you just have to write 2 things
 1. which user bankai it is
 2. and the full name of the bankai
 that's it !
+
 this is my first gitpush so i don't do that mush
 i hope i future i can build so thing great
 
